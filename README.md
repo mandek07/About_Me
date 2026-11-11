@@ -13,6 +13,7 @@
 
 ---
 
+![Profile](assets/profile.png)
 ## 👨‍💻 Tentang Saya
 
 Saya seorang pelajar yang tertarik pada pemrograman, teknologi, dan pengembangan digital. Saat ini saya belajar Python, mencoba membuat game 2D, dan mengembangkan proyek-proyek kecil untuk mengasah kemampuan.
